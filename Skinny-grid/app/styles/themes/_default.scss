@@ -1,0 +1,13 @@
+// -----------------------------------------------------------------------------
+// When having several themes, this file contains everything related to the
+// default one.
+// -----------------------------------------------------------------------------
+.navigation {
+  background: gray;
+}
+.bg-primary {
+  background-color:lighten(gray,10%);
+}
+.bg-secondary {
+  background-color:lightblue;
+}
